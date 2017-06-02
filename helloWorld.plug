@@ -1,6 +1,6 @@
 [Core]
 Name = HelloWorld
-Module = helloworld
+Module = helloWorld
 
 [Python]
 Version = 2+
